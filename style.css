@@ -13,9 +13,9 @@ li {
   float: left;
   overflow: hidden;
   position: relative;
-  text-align: center;
+  text-align: left;
   cursor: default;
-  background: #42b078;
+  background: #FFFFFF;
 }
 
 .hovereffect .overlay {
