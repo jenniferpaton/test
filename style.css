@@ -50,7 +50,7 @@ li {
 
 
 .hovereffect a, .hovereffect p {
-  color: #FFF;
+  color: #b4b4b4;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
